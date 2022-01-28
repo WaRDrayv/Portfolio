@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Expr2/1.0.0": {
+        "dependencies": {
+          "Expr1": "1.0.0"
+        },
+        "runtime": {
+          "Expr2.dll": {}
+        }
+      },
+      "Expr1/1.0.0": {
+        "runtime": {
+          "Expr1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expr2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Expr1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

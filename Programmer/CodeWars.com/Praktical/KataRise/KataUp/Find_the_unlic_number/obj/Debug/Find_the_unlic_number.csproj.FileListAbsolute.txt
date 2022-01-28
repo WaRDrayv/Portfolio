@@ -1,0 +1,6 @@
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Find_the_unlic_number\bin\Debug\Find_the_unlic_number.exe
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Find_the_unlic_number\bin\Debug\Find_the_unlic_number.pdb
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Find_the_unlic_number\obj\Debug\Find_the_unlic_number.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Find_the_unlic_number\obj\Debug\Find_the_unlic_number.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Find_the_unlic_number\obj\Debug\Find_the_unlic_number.exe
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Find_the_unlic_number\obj\Debug\Find_the_unlic_number.pdb

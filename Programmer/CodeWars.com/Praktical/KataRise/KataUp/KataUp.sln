@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split_String", "Split_String\Split_String.csproj", "{E82E8868-0D09-4FEB-86CB-2A6003B0AB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_the_unlic_number", "Find_the_unlic_number\Find_the_unlic_number.csproj", "{92ED3B36-81B7-45EE-9536-5DD669B651F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82E8868-0D09-4FEB-86CB-2A6003B0AB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82E8868-0D09-4FEB-86CB-2A6003B0AB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82E8868-0D09-4FEB-86CB-2A6003B0AB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82E8868-0D09-4FEB-86CB-2A6003B0AB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
