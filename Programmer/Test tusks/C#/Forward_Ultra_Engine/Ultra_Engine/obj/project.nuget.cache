@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BQ8kHqtPa1bMJLJGR09HVtWI00t/pc4WjfyGvVKILQd5w2d7pOFT6it9LbPsQCMfCYuuyh6Lb9OnwNeBhOkqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Drayv\\Поиск работы\\Тестовые задания\\Форвард\\C# Junior программист\\Forward_Ultra_Engine\\Ultra_Engine\\Ultra_Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drayv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ultra_Engine/1.0.0": {
+        "runtime": {
+          "Ultra_Engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ultra_Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

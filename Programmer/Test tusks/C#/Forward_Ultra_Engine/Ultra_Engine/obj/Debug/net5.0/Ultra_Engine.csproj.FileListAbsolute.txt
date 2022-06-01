@@ -1,0 +1,16 @@
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\Ultra_Engine.exe
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\Ultra_Engine.deps.json
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\Ultra_Engine.runtimeconfig.json
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\Ultra_Engine.runtimeconfig.dev.json
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\Ultra_Engine.dll
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\ref\Ultra_Engine.dll
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\bin\Debug\net5.0\Ultra_Engine.pdb
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.csproj.AssemblyReference.cache
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.AssemblyInfoInputs.cache
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.AssemblyInfo.cs
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.csproj.CoreCompileInputs.cache
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.dll
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\ref\Ultra_Engine.dll
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.pdb
+D:\Drayv\Поиск работы\Тестовые задания\Форвард\C# Junior программист\Forward_Ultra_Engine\Ultra_Engine\obj\Debug\net5.0\Ultra_Engine.genruntimeconfig.cache

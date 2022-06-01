@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Ultra_Engine": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
