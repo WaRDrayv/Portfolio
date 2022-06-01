@@ -1,0 +1,82 @@
+11.04.2022 19:01:36 - Receiving data "0002 C1 01:13:02.877 000013 C3 02:01:05.425 03"from "('127.0.0.1', 56918)"
+11.04.2022 19:07:54 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57000)"
+11.04.2022 19:07:54 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:08:56 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57008)"
+11.04.2022 19:08:56 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:10:33 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57013)"
+11.04.2022 19:10:33 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:10:33 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 19:11:52 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57015)"
+11.04.2022 19:11:52 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:11:52 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+b'11.04.2022 19:14:9 - Receiving data "0002 C1 01:13:02.877 00"from "(\'127.0.0.1\', 57046)"'
+b"11.04.2022 19:14:9 - Getting data for group '00'. Output to the terminal (+)"
+b'11.04.2022 19:14:9 - \xd0\xa1\xd0\xbf\xd0\xbe\xd1\x80\xd1\x82\xd1\x81\xd0\xbc\xd0\xb5\xd0\xbd, \xd0\xbd\xd0\xb0\xd0\xb3\xd1\x80\xd1\x83\xd0\xb4\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbd\xd0\xbe\xd0\xbc\xd0\xb5\xd1\x80 0002 \xd0\xbf\xd1\x80\xd0\xbe\xd1\x88\xd1\x91\xd0\xbb \xd0\xbe\xd1\x82\xd1\x81\xd0\xb5\xd1\x87\xd0\xba\xd1\x83 C1 \xd0\xb2 01:13:02.877'
+11.04.2022 19:18:19 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57079)"
+11.04.2022 19:18:19 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:18:19 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 19:18:29 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57080)"
+11.04.2022 19:18:29 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:18:29 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 19:58:23 - Receiving data "0002 C1 01:13:02.877 00"from "('127.0.0.1', 57631)"
+11.04.2022 19:58:23 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 19:58:23 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 20:00:18 - Receiving data ""from "('127.0.0.1', 57642)"
+11.04.2022 20:04:6 - Receiving data ""from "('127.0.0.1', 57674)"
+11.04.2022 20:05:17 - Receiving data ""from "('127.0.0.1', 57680)"
+11.04.2022 20:17:32 - Receiving data ""from "('127.0.0.1', 57792)"
+11.04.2022 20:17:32 - ERORR!!! The list is to short or long. Its length should be equal to 4(four). But the length is 0
+11.04.2022 20:39:09 - Receiving data "0013 C2 02:08:02.425 03"from "('127.0.0.1', 64290)"
+11.04.2022 20:41:08 - Receiving data "0013 C2 02:08:02.425 03"from "('127.0.0.1', 64717)"
+11.04.2022 20:45:50 - Receiving data "0013 C2 02:08:02.425 03" from "('127.0.0.1', 49579)"
+11.04.2022 20:46:15 - Getting data for group '03'. Do not output to the terminal (-)
+11.04.2022 20:46:17 - Спортсмен, нагрудный номер 0013 прошёл отсечку C2 в 02:08:02.425
+11.04.2022 21:00:28 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 53094)"
+11.04.2022 21:00:29 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 21:00:29 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:01:00 - Receiving data "'0002 C1 01:13:02.877 00'" from "('127.0.0.1', 62126)"
+11.04.2022 22:02:31 - Receiving data "" from "('127.0.0.1', 63061)"
+11.04.2022 22:02:31 - ERORR!!! The list is to short or long. Its length should be equal to 4(four). But the length is 0
+11.04.2022 22:02:56 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 63078)"
+11.04.2022 22:02:56 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:02:56 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:03:11 - Receiving data "'0002 C1 01:13:02.877 00'" from "('127.0.0.1', 63083)"
+11.04.2022 22:04:53 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 63105)"
+11.04.2022 22:04:53 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:04:53 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:05:41 - Receiving data "0002 C1 01:13:02.877 02" from "('127.0.0.1', 63117)"
+11.04.2022 22:05:41 - ERORR!!! Received data does not match the format
+11.04.2022 22:08:06 - Receiving data "002 C1" from "('127.0.0.1', 63150)"
+11.04.2022 22:08:06 - ERORR!!! The list is to short or long. Its length should be equal to 4(four). But the length is 2
+11.04.2022 22:14:58 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 63283)"
+11.04.2022 22:14:58 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:14:58 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:23:33 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 63407)"
+11.04.2022 22:23:33 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:23:33 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:24:34 - Receiving data "exit" from "('127.0.0.1', 63427)"
+11.04.2022 22:30:38 - Receiving data "0002 C1 01:13:02.877 03" from "('127.0.0.1', 50528)"
+11.04.2022 22:30:38 - Getting data for group '03'. Do not output to the terminal (-)
+11.04.2022 22:30:38 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:41:19 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 50730)"
+11.04.2022 22:41:42 - ERORR!!! Received data does not match the format
+11.04.2022 22:48:56 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 55695)"
+11.04.2022 22:49:49 - ERORR!!! Received data does not match the format
+11.04.2022 22:50:22 - Receiving data "0022 C2 02:00:02.877 03" from "('127.0.0.1', 55714)"
+11.04.2022 22:50:58 - Getting data for group '03'. Do not output to the terminal (-)
+11.04.2022 22:50:59 - Спортсмен, нагрудный номер 0022 прошёл отсечку C2 в 02:00:02.877
+11.04.2022 22:51:22 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 55732)"
+11.04.2022 22:51:57 - ERORR!!! Received data does not match the format
+11.04.2022 22:52:10 - Receiving data "0022 C2 02:00:02.877 01" from "('127.0.0.1', 55739)"
+11.04.2022 22:52:27 - ERORR!!! Received data does not match the format
+11.04.2022 22:52:36 - Receiving data "0022 C2 02:00:02.877 00" from "('127.0.0.1', 55757)"
+11.04.2022 22:52:38 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:52:39 - Спортсмен, нагрудный номер 0022 прошёл отсечку C2 в 02:00:02.877
+11.04.2022 22:53:23 - Receiving data "0022 C2 02:00:02.877 2" from "('127.0.0.1', 55766)"
+11.04.2022 22:54:06 - Receiving data "0022 C2 02:00:02.877 03" from "('127.0.0.1', 55780)"
+11.04.2022 22:54:14 - Getting data for group '03'. Do not output to the terminal (-)
+11.04.2022 22:54:14 - Спортсмен, нагрудный номер 0022 прошёл отсечку C2 в 02:00:02.877
+11.04.2022 22:54:26 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 55790)"
+11.04.2022 22:55:40 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 55842)"
+11.04.2022 22:55:43 - Getting data for group '02'. Do not output to the terminal (-)
+11.04.2022 22:55:43 - Спортсмен, нагрудный номер 0022 прошёл отсечку C2 в 02:00:02.877

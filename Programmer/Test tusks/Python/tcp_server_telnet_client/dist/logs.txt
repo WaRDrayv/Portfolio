@@ -1,0 +1,22 @@
+11.04.2022 22:37:01 - Receiving data "Поскольку" from "('127.0.0.1', 50652)"
+11.04.2022 22:37:01 - ERORR!!! The list is to short or long. Its length should be equal to 4(four). But the length is 1
+11.04.2022 22:37:19 - Receiving data "exit" from "('127.0.0.1', 50654)"
+11.04.2022 22:38:44 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 50675)"
+11.04.2022 22:38:44 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:38:44 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 22:39:15 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 50683)"
+11.04.2022 22:39:15 - ERORR!!! Received data does not match the format
+11.04.2022 22:40:25 - Receiving data "exit" from "('127.0.0.1', 50707)"
+11.04.2022 22:57:34 - Receiving data "0022 C2 02:00:02.877 02" from "('127.0.0.1', 55886)"
+11.04.2022 22:57:34 - Getting data for group '02'. Do not output to the terminal (-)
+11.04.2022 22:57:34 - Спортсмен, нагрудный номер 0022 прошёл отсечку C2 в 02:00:02.877
+11.04.2022 22:57:58 - Receiving data "0022 C2 02:00:02.877 00" from "('127.0.0.1', 55898)"
+11.04.2022 22:57:58 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 22:57:58 - Спортсмен, нагрудный номер 0022 прошёл отсечку C2 в 02:00:02.877
+11.04.2022 23:29:48 - Receiving data "0002 C1 01:13:02.877 00" from "('127.0.0.1', 56385)"
+11.04.2022 23:29:48 - Getting data for group '00'. Output to the terminal (+)
+11.04.2022 23:29:48 - Спортсмен, нагрудный номер 0002 прошёл отсечку C1 в 01:13:02.877
+11.04.2022 23:33:49 - Receiving data "0013 C2 00:57:02.425 02" from "('127.0.0.1', 56546)"
+11.04.2022 23:33:49 - Getting data for group '02'. Do not output to the terminal (-)
+11.04.2022 23:33:49 - Спортсмен, нагрудный номер 0013 прошёл отсечку C2 в 00:57:02.425
+11.04.2022 23:40:03 - Receiving data "exit" from "('127.0.0.1', 56692)"
