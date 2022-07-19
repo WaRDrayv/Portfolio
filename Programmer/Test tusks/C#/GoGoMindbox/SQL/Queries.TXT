@@ -1,0 +1,43 @@
+CREATE DATABASE mindbox; 
+
+CREATE TABLE mindbox.Products(
+    ProdID INT PRIMARY KEY NOT NULL,
+    PName VARCHAR(40) NOT NULL
+); 
+
+CREATE TABLE mindbox.Category(
+    CatID INT PRIMARY KEY NOT NULL,
+    CatName VARCHAR(40) NOT NULL
+);
+
+CREATE TABLE mindbox.ProductsCategory(
+    ProdID INT, 
+    FOREIGN KEY (ProdID) REFERENCES mindbox.Products (ProdID),
+    CatID int,
+    FOREIGN KEY (CatID) REFERENCES mindbox.Category (CatID),
+    PRIMARY KEY (ProdID, CatID)
+);
+
+===
+
+INSERT INTO mindbox.Products(ProdID, PName)
+VALUES
+(1, 'Beef'), (2, 'Milk'), (3, 'Cheese'), (4, 'Cucumber'), (5, 'Carrot'), (6, 'Ide'), (7, 'Bread'), 
+(8, 'Pork'), (9, 'Donut'), (10, 'Farel'), (11, 'Granite'), (12, 'Nothing');
+
+INSERT INTO mindbox.Category(CatID, CatName)
+VALUES
+(1, 'Meat'), (2, 'Milk Product'), (3, 'Cooled'), (4, 'Vegetables'), (5, 'Seafood'), (7, 'Bakery'), 
+(8, 'Vegan Hate'), (9, 'Science Rock');
+
+INSERT INTO mindbox.ProductsCategory(ProdID, CatID)
+VALUES
+(1, 1), (1, 3), (1, 8), (2, 2), (2, 3), (3, 2), (3, 3), (4, 4), (5, 4), (6, 5), (6, 3),
+(7, 7), (8, 1), (8, 3), (8, 8), (9, 7), (10, 5), (10, 3), (11, 9);
+
+===
+
+SELECT PName, CatName FROM products
+LEFT JOIN productscategory ON products.ProdID = productscategory.ProdID 
+LEFT JOIN category ON productscategory.CatID = category.CatID 
+ORDER BY products.PName;
