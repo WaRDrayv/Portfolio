@@ -1,0 +1,6 @@
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr3\bin\Debug\Expr3.exe
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr3\bin\Debug\Expr3.pdb
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr3\obj\Debug\Expr3.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr3\obj\Debug\Expr3.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr3\obj\Debug\Expr3.exe
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr3\obj\Debug\Expr3.pdb

@@ -1,0 +1,15 @@
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.exe
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.deps.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.runtimeconfig.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.AssemblyInfoInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.AssemblyInfo.cs
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\refint\ConstructorsAndDestructors.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.genruntimeconfig.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ConstructorsAndDestructors\obj\Debug\net6.0\ref\ConstructorsAndDestructors.dll

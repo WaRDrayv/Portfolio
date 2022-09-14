@@ -121,7 +121,6 @@ class Program
                 case 3:
                     Console.Clear();
                     return;
-                    break;
                 case  0:
                     Console.Clear();
                     Console.WriteLine("Задание ");
@@ -159,10 +158,8 @@ class Program
                         case 3:
                             Console.Clear();
                             return;
-                            break;
                         default:
                             return;
-                            break;
                     }
                     
                     break;

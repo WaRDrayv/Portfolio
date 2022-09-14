@@ -1,0 +1,15 @@
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\bin\Debug\net6.0\Good vs Evil.exe
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\bin\Debug\net6.0\Good vs Evil.deps.json
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\bin\Debug\net6.0\Good vs Evil.runtimeconfig.json
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\bin\Debug\net6.0\Good vs Evil.dll
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\bin\Debug\net6.0\ref\Good vs Evil.dll
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\bin\Debug\net6.0\Good vs Evil.pdb
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.AssemblyInfoInputs.cache
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.AssemblyInfo.cs
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.dll
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\ref\Good vs Evil.dll
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.pdb
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Good vs Evil\obj\Debug\net6.0\Good vs Evil.genruntimeconfig.cache

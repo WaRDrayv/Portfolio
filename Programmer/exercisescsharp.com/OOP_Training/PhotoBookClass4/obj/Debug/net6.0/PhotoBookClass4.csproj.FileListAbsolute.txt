@@ -1,0 +1,15 @@
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\bin\Debug\net6.0\PhotoBookClass4.exe
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\bin\Debug\net6.0\PhotoBookClass4.deps.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\bin\Debug\net6.0\PhotoBookClass4.runtimeconfig.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\bin\Debug\net6.0\PhotoBookClass4.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\bin\Debug\net6.0\PhotoBookClass4.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.AssemblyInfoInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.AssemblyInfo.cs
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\refint\PhotoBookClass4.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\PhotoBookClass4.genruntimeconfig.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\PhotoBookClass4\obj\Debug\net6.0\ref\PhotoBookClass4.dll

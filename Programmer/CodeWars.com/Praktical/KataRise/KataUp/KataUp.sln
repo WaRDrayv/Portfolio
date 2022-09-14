@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split_String", "Split_Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_the_unlic_number", "Find_the_unlic_number\Find_the_unlic_number.csproj", "{92ED3B36-81B7-45EE-9536-5DD669B651F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good vs Evil", "Good vs Evil\Good vs Evil.csproj", "{345606A2-B8F7-4072-A1FE-96F466C9BE88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92ED3B36-81B7-45EE-9536-5DD669B651F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345606A2-B8F7-4072-A1FE-96F466C9BE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345606A2-B8F7-4072-A1FE-96F466C9BE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345606A2-B8F7-4072-A1FE-96F466C9BE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345606A2-B8F7-4072-A1FE-96F466C9BE88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

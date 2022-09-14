@@ -1,0 +1,16 @@
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\Expr6.exe
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\Expr6.deps.json
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\Expr6.runtimeconfig.json
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\Expr6.runtimeconfig.dev.json
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\Expr6.dll
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\ref\Expr6.dll
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\bin\Debug\net5.0\Expr6.pdb
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.AssemblyInfoInputs.cache
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.AssemblyInfo.cs
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.dll
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\ref\Expr6.dll
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.pdb
+D:\Drayv\Учёба\Ulearn.me\Practical\Module1Expr\Expr6\obj\Debug\net5.0\Expr6.genruntimeconfig.cache

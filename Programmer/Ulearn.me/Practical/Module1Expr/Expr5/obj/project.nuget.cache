@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaFH5+WgG0l2xc84zjMS4FK0IAOZWx1DVuL1m3OSPgVKCuSemrg0dKS0ZrADF5KigfJh8VJU0AgNsgNIC3S1fA==",
+  "success": true,
+  "projectFilePath": "D:\\Drayv\\Учёба\\Ulearn.me\\Practical\\Module1Expr\\Expr5\\Expr5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drayv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

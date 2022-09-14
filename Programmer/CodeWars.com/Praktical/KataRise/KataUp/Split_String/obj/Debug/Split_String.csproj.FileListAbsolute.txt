@@ -4,3 +4,4 @@ D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Split_String\obj\Debu
 D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Split_String\obj\Debug\Split_String.csproj.CoreCompileInputs.cache
 D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Split_String\obj\Debug\Split_String.exe
 D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Split_String\obj\Debug\Split_String.pdb
+D:\Drayv\Учёба\CodeWars.com\Praktical\KataRise\KataUp\Split_String\obj\Debug\Split_String.csproj.SuggestedBindingRedirects.cache

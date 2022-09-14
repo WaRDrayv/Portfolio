@@ -1,0 +1,15 @@
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\bin\Debug\net6.0\FirstClassAndMethod_ToString.exe
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\bin\Debug\net6.0\FirstClassAndMethod_ToString.deps.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\bin\Debug\net6.0\FirstClassAndMethod_ToString.runtimeconfig.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\bin\Debug\net6.0\FirstClassAndMethod_ToString.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\bin\Debug\net6.0\FirstClassAndMethod_ToString.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.AssemblyInfoInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.AssemblyInfo.cs
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\refint\FirstClassAndMethod_ToString.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\FirstClassAndMethod_ToString.genruntimeconfig.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\FirstClassAndMethod_ToString\obj\Debug\net6.0\ref\FirstClassAndMethod_ToString.dll

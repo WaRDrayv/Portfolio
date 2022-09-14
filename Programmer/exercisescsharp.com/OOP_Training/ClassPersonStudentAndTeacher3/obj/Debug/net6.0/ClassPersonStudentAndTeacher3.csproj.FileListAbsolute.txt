@@ -1,0 +1,15 @@
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\bin\Debug\net6.0\ClassPersonStudentAndTeacher3.exe
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\bin\Debug\net6.0\ClassPersonStudentAndTeacher3.deps.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\bin\Debug\net6.0\ClassPersonStudentAndTeacher3.runtimeconfig.json
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\bin\Debug\net6.0\ClassPersonStudentAndTeacher3.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\bin\Debug\net6.0\ClassPersonStudentAndTeacher3.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.csproj.AssemblyReference.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.AssemblyInfoInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.AssemblyInfo.cs
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.csproj.CoreCompileInputs.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\refint\ClassPersonStudentAndTeacher3.dll
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.pdb
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ClassPersonStudentAndTeacher3.genruntimeconfig.cache
+D:\Drayv\Учёба\Сибгути\5 курс\2 Семестр\Методы машинного обучения\Lab3LinearRegression\OOP_Training\ClassPersonStudentAndTeacher3\obj\Debug\net6.0\ref\ClassPersonStudentAndTeacher3.dll
