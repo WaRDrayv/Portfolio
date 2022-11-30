@@ -1,0 +1,12 @@
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\bin\Debug\net6.0\FigureCalculateLibrary.deps.json
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\bin\Debug\net6.0\FigureCalculateLibrary.dll
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\bin\Debug\net6.0\FigureCalculateLibrary.pdb
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.csproj.AssemblyReference.cache
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.AssemblyInfoInputs.cache
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.AssemblyInfo.cs
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.csproj.CoreCompileInputs.cache
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.dll
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\refint\FigureCalculateLibrary.dll
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\FigureCalculateLibrary.pdb
+D:\Drayv\Поиск работы\Тестовые задания\Mindbox\FigureCalculateLibrary\FigureCalculateLibrary\obj\Debug\net6.0\ref\FigureCalculateLibrary.dll
