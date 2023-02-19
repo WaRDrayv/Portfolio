@@ -1,24 +1,57 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace FigureCalculateLibrary.MathObjects
 {
-    public class Triangle : Figure
+    public class Triangle : IGeometricShape
     {
-        public int a, b, c;
-        public bool isPronounced = false;
-        public bool isRectangular = false;
+        private int _a, _b, _c;
+        private bool _isPronounced = false;
+        private bool _isRectangular = false;
+
+		[Range(1, 10000, ErrorMessage = "Сторона {0} может принимать значения от {1} до {2}.")]
+		public int A
+        {
+            get => _a;
+            private set => _a = value; 
+        }
+
+		[Range(1, 10000, ErrorMessage = "Сторона {0} может принимать значения от {1} до {2}.")]
+		public int B
+        {
+            get => _b;
+            private set => _b = value;
+        }
+
+		[Range(1, 10000, ErrorMessage = "Сторона {0} может принимать значения от {1} до {2}.")]
+		public int C
+        {
+            get => _c;
+            private set => _c = value;
+        }
+
+        public bool IsPronounced 
+        { 
+            get => _isPronounced; 
+        }
+
+        public bool IsRectangular 
+        { 
+            get => _isRectangular;
+        }
+
 
         public Triangle(int a, int b, int c)
         {
-            this.a = CheckingForNegative(a);
-            this.b = CheckingForNegative(b);
-            this.c = CheckingForNegative(c);
-            isPronounced = IsNotPronouncedTriangle(this.a, this.b, this.c);
-            isRectangular = IsRectangularTriangle(this.a, this.b, this.c);
+            _a = a;
+            _b = b;
+            _c = c;
+            _isPronounced = IsNotPronouncedTriangle(_a, _b, _c);
+            _isRectangular = IsRectangularTriangle(_a, _b, _c);
         }
 
         /// <summary>
@@ -29,12 +62,12 @@ namespace FigureCalculateLibrary.MathObjects
         /// Вернёт площадь треугольника.
         /// Если одна, или все стороны ниже нуля - вернёт ноль
         /// </returns>
-        public override int Square()
+        public int GetArea()
         {
-            if (a > 0 && b > 0 && c > 0) 
+            if (_a > 0 && _b > 0 && _c > 0) 
             {
-                int p = (a + b + c) / 2; // Полупериметр треугольника 
-                return (int)Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+                int p = (_a + _b + _c) / 2; // Полупериметр треугольника 
+                return (int)Math.Sqrt(p * (p - _a) * (p - _b) * (p - _c));
             }
             return 0;
 
@@ -76,6 +109,5 @@ namespace FigureCalculateLibrary.MathObjects
             return result == comparable ? true : false; // Если квадрат гипотенузы равен сумме квадратов прилежащего и противилежащего катетов
                                                         // значит треугольник прямоугольный, а если нет, то нет =)
         }
-
     }
 }
